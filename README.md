@@ -25,28 +25,49 @@ Esses dois serviços foram organizados em um repositório monolítico para facil
 ## Estrutura de Diretórios
 
 fluxo-de-reserva/
+|
 ├── book-service/
+|   |
 │   ├── src/
+|   |   |
 │   │   └── main/
+|   |       |
 │   │       ├── java/com/example/bookservice/
+|   |       |   |
 │   │       │   ├── controller/
+|   |       |   |
 │   │       │   ├── model/
+|   |       |   |
 │   │       │   ├── repository/
+|   |       |   | 
 │   │       │   └── BookServiceApplication.java
+|   |       |   
 │   │       └── resources/
+|   |           |
 │   │           └── application.properties
+|   | 
 │   └── pom.xml
 │
 ├── reservation-service/
+|   |
 │   ├── src/
+|   |   |
 │   │   └── main/
+|   |       |
 │   │       ├── java/com/example/reservationservice/
+|   |       |   |
 │   │       │   ├── controller/
+|   |       |   |
 │   │       │   ├── model/
+|   |       |   |
 │   │       │   ├── repository/
+|   |       |   |
 │   │       │   └── ReservationServiceApplication.java
+|   |       |
 │   │       └── resources/
+|   |           |
 │   │           └── application.properties
+|   |
 │   └── pom.xml
 │
 └── README.md
