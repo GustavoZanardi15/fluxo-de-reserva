@@ -136,8 +136,12 @@ Separadamente, em seus respectivos repositórios:
 ## Feito por:
 
 Alisson Segura Kobayashi - R.A 22210867-2
-Gustavo Ulian Zanardi - R.A 22225566-2
-João Gabriel Renzetti - R.A 22108621-2
-Lucas Leal - R.A 22015777-2
-Vlademir Vinhoto Junior - R.A 22014195-2
+
+Gustavo Ulian Zanardi    - R.A 22225566-2
+
+João Gabriel Renzetti    - R.A 22108621-2
+
+Lucas Leal               - R.A 22015777-2
+
+Vlademir Vinhoto Junior  - R.A 22014195-2
 
