@@ -54,7 +54,7 @@ fluxo-de-reserva/
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 17
 - Spring Boot 3
@@ -131,3 +131,15 @@ No repositório monolítico com ambos os serviços juntos:
 Separadamente, em seus respectivos repositórios:
 🔗 book-service
 🔗 reservation-service .
+
+```
+
+## Feito por: 
+
+Alisson Segura Kobayashi - R.A 22210867-2
+Gustavo Ulian Zanardi    - R.A 22225566-2
+João Gabriel Renzetti    - R.A 22108621-2
+Lucas Leal               - R.A 22015777-2
+Vlademir Vinhoto Junior  - R.A 22014195-2
+
+
